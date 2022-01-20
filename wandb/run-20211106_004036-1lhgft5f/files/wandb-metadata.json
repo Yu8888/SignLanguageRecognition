@@ -1,0 +1,30 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-11-05T11:40:40.429921",
+    "startedAt": "2021-11-05T11:40:36.133087",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--img",
+        "640",
+        "--batch",
+        "8",
+        "--epochs",
+        "10",
+        "--data",
+        "coco128.yaml",
+        "--weights",
+        "yolov5s.pt",
+        "--cache"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\User\\Desktop\\yolov5-new-20211105T100344Z-001\\yolov5-new\\train.py",
+    "codePath": "yolov5-new\\train.py",
+    "host": "LAPTOP-EQET11T7",
+    "username": "User",
+    "executable": "C:\\Python39\\python.exe"
+}
