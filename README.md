@@ -6,6 +6,7 @@ Dataset: it includes images and labels. Using 'labelImg' software to mark labels
 
 Yolov5 and Detection Transformer: I use these two methods to detect sign language gestures.  
 Demo: there are some demo videos to show the results of sign language detection.  
+![image](https://user-images.githubusercontent.com/65652928/150302009-fffc6970-af03-4a43-b164-b99e316b02cb.png)
 
 
 
